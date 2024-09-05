@@ -1,3 +1,4 @@
+![logo](https://github.com/jeetukumarmeena/jeetu_kumar_meena/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Jeetu Kumar Meena</h1>
 <h3 align="center">A passionate data Science from India</h3>
 <img align="right" alt="coding" width ="400" src"https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif">
